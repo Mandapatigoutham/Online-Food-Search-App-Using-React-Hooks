@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Mandapatigoutham/Online-Food-Search-App-Using-React-Hooks.git/static/css/main.4a491fdf.css",
-    "main.js": "/Mandapatigoutham/Online-Food-Search-App-Using-React-Hooks.git/static/js/main.ba12dc49.js",
-    "index.html": "/Mandapatigoutham/Online-Food-Search-App-Using-React-Hooks.git/index.html",
-    "main.4a491fdf.css.map": "/Mandapatigoutham/Online-Food-Search-App-Using-React-Hooks.git/static/css/main.4a491fdf.css.map",
-    "main.ba12dc49.js.map": "/Mandapatigoutham/Online-Food-Search-App-Using-React-Hooks.git/static/js/main.ba12dc49.js.map"
+    "main.css": "/Online-Food-Search-App-Using-React-Hooks/static/css/main.4a491fdf.css",
+    "main.js": "/Online-Food-Search-App-Using-React-Hooks/static/js/main.ba12dc49.js",
+    "index.html": "/Online-Food-Search-App-Using-React-Hooks/index.html",
+    "main.4a491fdf.css.map": "/Online-Food-Search-App-Using-React-Hooks/static/css/main.4a491fdf.css.map",
+    "main.ba12dc49.js.map": "/Online-Food-Search-App-Using-React-Hooks/static/js/main.ba12dc49.js.map"
   },
   "entrypoints": [
     "static/css/main.4a491fdf.css",
